@@ -1,0 +1,2 @@
+# appSamle
+test for phonegap
